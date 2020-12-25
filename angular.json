@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "learning-angular-with-book"
+    }
+  },
+  "defaultProject": "learning-angular-with-book",
+  "cli": {
+    "analytics": false
+  }
 }
